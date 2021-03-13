@@ -1,1 +1,1 @@
-# Medical-Store-InventoryBilling
+# Retail-Store-InventoryBilling-System
